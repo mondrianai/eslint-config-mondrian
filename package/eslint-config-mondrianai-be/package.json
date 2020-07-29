@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-mondrianai-be",
+  "version": "0.1.0",
+  "description": "Mondrian AI Backend javascript & typescript linter with ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondrianai/eslint-config-mondrianai.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "mondrianai",
+    "backend"
+  ],
+  "author": "Myeongseok Ko <myeongsku@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mondrianai/eslint-config-mondrianai/issues"
+  },
+  "homepage": "https://github.com/mondrianai/eslint-config-mondrianai#readme"
+}
