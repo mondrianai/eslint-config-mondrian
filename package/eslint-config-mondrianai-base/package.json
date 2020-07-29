@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-mondrianai",
+  "name": "eslint-config-mondrianai-base",
   "version": "0.1.0",
   "description": "Mondrian AI javascript and typescript lint setting with ESLint",
   "main": "index.js",

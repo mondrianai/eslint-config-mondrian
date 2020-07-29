@@ -15,5 +15,15 @@ module.exports = {
       },
     ],
     "import/no-unresolved": 0,
+    "import/extensions": [
+      "error",
+      {
+        js: "never",
+        jsx: "never",
+        ts: "never",
+        tsx: "never",
+      },
+    ],
+    "import/prefer-default-export": 0,
   },
 };
