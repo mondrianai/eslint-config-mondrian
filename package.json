@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-mondrianai",
+  "version": "0.1.0",
+  "description": "Mondrian AI javascript and typescript linter with ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondrianai/eslint-config-mondrianai.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "mondrianai",
+    "config",
+    "javascript",
+    "typescript"
+  ],
+  "author": "HyunnoH <hyunnoh01@gmail.com>",
+  "contributors": [
+    {
+      "name": "Hyun Oh",
+      "email": "hyunnoh01@gmail.com"
+    },
+    {
+      "name": "Seunghyun Yu",
+      "email": "yshyun123@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mondrianai/eslint-config-mondrian/issues"
+  },
+  "homepage": "https://github.com/mondrianai/eslint-config-mondrian#readme"
+}
