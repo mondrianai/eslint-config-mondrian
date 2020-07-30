@@ -7,7 +7,7 @@ module.exports = {
     './rules/mondrianai.js',
     './rules/typescript.js',
     './rules/react.js',
-    './rules.prettier.js',
+    './rules/prettier.js',
   ].map(require.resolve),
   rules: {},
   settings: {
